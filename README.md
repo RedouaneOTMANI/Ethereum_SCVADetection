@@ -14,17 +14,17 @@ To edit the source code I suggest you, using Eclipse IDE. You need also to creat
 Finally, you would like to test with these smart contracts :
 
 **App1 :**
-- **Vulnerable contract** : 
+- **Vulnerable contracts** : 
 
 	  0xe3f640efb74229b6e6c9e3fe24ded660f683cdd2
     
-- **Non vulnerable contract** : 
+- **Non vulnerable contracts** : 
 
       0xa0c6bb9567821ddfb2597f4c660bc084cd1386f9
 
 **App2 :**
 
-- **Vulnerable/(Already attacked) contract :**
+- **Vulnerable/(Already attacked) contracts :**
 
       0xbb9bc244d798123fde783fcc1c72d3bb8c189413 aka TheDAO you can test the following range of analysis block : Between 1718497 and 1718597 
 
@@ -76,7 +76,7 @@ Finally, you would like to test with these smart contracts :
 
       0xfe1b613f17f984e27239b0b2dccfb1778888dfae
 
-- **Non vulnerable contract :** 
+- **Non vulnerable contracts :** 
 
       0x0d8775f648430679a709e98d2b0cb6250d2887ef
 
@@ -129,7 +129,7 @@ Finally, you would like to test with these smart contracts :
 
 **App3 :**
 
-- **Vulnerable contract :**
+- **Vulnerable contracts :**
 
 		0xbb9bc244d798123fde783fcc1c72d3bb8c189413 aka TheDAO
 		
@@ -193,7 +193,7 @@ Finally, you would like to test with these smart contracts :
 		
       0xf01fe1a15673a5209c94121c45e2121fe2903416
 
-- **Non vulnerable contract :** 
+- **Non vulnerable contracts :** 
 
   		0x0d8775f648430679a709e98d2b0cb6250d2887ef
     
@@ -248,7 +248,7 @@ Finally, you would like to test with these smart contracts :
 
 **App4 :**
 
-- **Vulnerable contract :**
+- **Vulnerable contracts :**
 
 		0x5ace17f87c7391e5792a7683069a8025b83bbd85 aka SmartBillions
 		
@@ -280,7 +280,7 @@ Finally, you would like to test with these smart contracts :
 
       0xce825efe338f79efb8bddb00a8321c7fab60c32b  
 
-- **Non vulnerable contract :**
+- **Non vulnerable contracts :**
 
       0x01cb539331a8a9d768256177f4df05ee1202aee9
       

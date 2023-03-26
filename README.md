@@ -11,7 +11,7 @@ The tool is written in Java and Python, and used via a GUI which is so simple.
 
 To edit the source code I suggest you, using Eclipse IDE. You need also to create an **Infura account** https://app.infura.io/  to get an **APIKey** (cf, source code where I mention "PUT_HERE_YOUR_API_KEY") which will be used to connect to **Web3**.
 
-Finaly, you would like to test with these smart contracts :
+Finally, you would like to test with these smart contracts :
 
 **App1 :**
 - **Vulnerable contract** : 

@@ -1,5 +1,5 @@
 # Ethereum_SCVADetection
-In 2020, my colleague Mélissa Mazrou and I worked together to develop a tool name SCVADetection (Smart Contract Vulnerabilities and Attacks Detection) for Ethereum Smart Contracts.
+In 2020, my colleague Mélissa Mazrou and I worked together to develop a tool named SCVADetection (Smart Contract Vulnerabilities and Attacks Detection) for Ethereum Smart Contracts.
 
 The tool is written in Java and Python, and used via a GUI which is so simple. 
 

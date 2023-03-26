@@ -3,7 +3,7 @@ In 2020, my colleague Mélissa Mazrou and I worked together to develop a tool na
 
 The tool is written in Java and Python, and used via a GUI which is so simple. 
 
-**The vulnerabilies and attacks detected by our tool are :**
+**The vulnerabilities and attacks detected by our tool are :**
 - **App1** : Based on a Machine Learning approach, it detects Reentrancy Attack, Integer Overflow and Underflow, Transaction order dependence, Timestamp dependence.
 - **App2** : Reentrancy Attack.
 - **App3** : Reentrancy Vulnerability.

@@ -184,7 +184,7 @@ public class Frame3_DetectionAidModules extends JFrame {
 UIManager.put("OptionPane.messageFont", new FontUIResource(new Font("merriweather", Font.BOLD, 12)));
 		
 
-		setTitle("G�n�ration des MAD");
+		setTitle("DAM Generating");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(0, 0, 1020, 600);
 		setResizable(false);
